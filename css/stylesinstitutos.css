@@ -1,0 +1,40 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.colortitulo{
+    color: rgba(63, 63, 228, 0.888);
+    text-align: center;
+}
+.tamañoletraglobal{
+    font-size: 1.7em;
+    padding: 8px 15px;
+}
+.parrafo{
+    font-size: 1.3em;
+    text-align: center;
+}
+.institutos{
+    color: rgb(27, 81, 81);
+    text-align: center;
+}
+
+
+.imagen{
+    width:740px;
+}
+
+
+.institutoIcec{
+    color: red;
+}
+
+
+.institutoIGI{
+    color: rgb(250, 144, 15);
+}
+
+
+.institutocelsius{ 
+    color: rgb(4, 4, 255);
+
+}

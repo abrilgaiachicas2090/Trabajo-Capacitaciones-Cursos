@@ -1,0 +1,16 @@
+.invalid{
+    border: solid 1px red;
+    box-shadow: 0 0 10px red;
+}
+.error{
+    color: red;
+    display: block;
+}
+.true{
+    color: green;
+    display: block;
+}
+.verdadero{
+    border: solid 1px green;
+    box-shadow:  0 0 10px green;
+}
