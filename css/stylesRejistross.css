@@ -14,3 +14,10 @@
     border: solid 1px green;
     box-shadow:  0 0 10px green;
 }
+main{
+    position: relative;
+    text-align: center;
+    margin-top: 0;
+    font-size: 1.2em;
+    box-shadow: 0 0 20px 1px rgba(0, 0, brue, 0,5);
+}
